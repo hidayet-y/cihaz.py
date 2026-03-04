@@ -15,9 +15,9 @@ Projemde:
 
 Projemde amaç :
 
- Sınıf yapısını pekiştirmek
- Kalıtım mantığını anlamak
- Class method ve static method kullanımını öğrenmek
+ Sınıf yapısını pekiştirmek.
+ Kalıtım mantığını anlamak.
+ Class method ve static method kullanımını öğrenmek.
  Temiz ve modüler proje yapısı oluşturmaktır.
 
 
